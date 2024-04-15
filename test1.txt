@@ -5,3 +5,4 @@ print('zajęcia 3')
 print('cokolwoek na dev')
 
 print('ta liniejka powinna się zmerdżować bez konfliktu')
+print('sth')
