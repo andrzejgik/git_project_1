@@ -1,4 +1,4 @@
-print('Hello World')
+print('wpefwpnwpn')
 print('Hello from develpoment branch')
 print('zajęcia 3')
 print('cokolwoek na dev')
