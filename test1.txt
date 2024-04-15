@@ -1,4 +1,7 @@
 print('wpefwpnwpn')
+print('Hello World')
 print('Hello from develpoment branch')
 print('zajęcia 3')
 print('cokolwoek na dev')
+
+print('ta liniejka powinna się zmerdżować bez konfliktu')
